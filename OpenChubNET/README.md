@@ -77,6 +77,7 @@ Print laying down or at 45 degree for fewer supports. Supports needed.
 - [usbc rj45 ntype sma](stl/openMANET_top_usbc_rj45_ntype_sma.stl)
 - [usbc rj45 sma sma](stl/openMANET_top_usbc_rj45_sma_sma.stl)
 - [usbc rj45 sma sma power](stl/openMANET_top_usbc_rj45_sma_sma_power.stl)
+- [usbc usbc rj45 sma sma power](stl/openMANET_top_usbc_usbc_rj45_sma_sma_power.stl)
 
 ## DIY top lids
 
@@ -89,6 +90,7 @@ Additionally there are punches for
 - [NType](stl/openMANET_stencil_ntype.stl)
 - [SMA Large](stl/openMANET_stencil_sma_large.stl)
 - [SMA Small](stl/openMANET_stencil_sma_small.stl)
+- [Power Button](stl/openMANET_stencil_power_button.stl)
 
 In Fusion 360 add the stencils to the top, combine, cut. 
 
@@ -106,6 +108,7 @@ In Fusion 360 add the stencils to the top, combine, cut.
 <img src="pics/3_top_ntype.png" alt="Top" width="450" />
 <img src="pics/3_top_sma.png" alt="Top" width="450" />
 <img src="pics/3_top_sma_power.png" alt="Top" width="450" />
+<img src="pics/3_top_sma_sma_power.png" alt="Top" width="450" />
 <img src="pics/4_mounting_plate.png" alt="Mounting plate" width="450" />
 <img src="pics/5_assembly_mp_ups_rpi_halow.png" alt="Assembly 1" width="450" />
 <img src="pics/6_assembly_case_hw.png" alt="Assembly 2" width="450" />
