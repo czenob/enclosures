@@ -74,10 +74,10 @@ Print laying down. No supports needed
 
 Print laying down or at 45 degree for fewer supports. Supports needed.
 
-- [usbc rj45 ntype sma](stl/openMANET_top_usbc_rj45_ntype_sma.stl)
-- [usbc rj45 sma sma](stl/openMANET_top_usbc_rj45_sma_sma.stl)
-- [usbc rj45 sma sma power](stl/openMANET_top_usbc_rj45_sma_sma_power.stl)
-- [usbc usbc rj45 sma sma power](stl/openMANET_top_usbc_usbc_rj45_sma_sma_power.stl)
+- [gps sma ntype usbc rj45 usbc](stl/openMANET_top_gps_sma_ntype_usbc_rj45_usbc.stl)
+- [gps sma sma power usbc rj45 usbc](stl/openMANET_top_gps_sma_sma_power_usbc_rj45_usbc.stl)
+- [gps sma sma usbc rj45 power](stl/openMANET_top_gps_sma_sma_usbc_rj45_power.stl)
+- [gps sma sma usbc rj45 usbc](stl/openMANET_top_gps_sma_sma_usbc_rj45_usbc.stl)
 
 ## DIY top lids
 
@@ -105,10 +105,10 @@ In Fusion 360 add the stencils to the top, combine, cut.
 <img src="pics/1_outside_view.png" alt="Outside view" width="450" />
 <img src="pics/1_outside_view2.png" alt="Outside view" width="450" />
 <img src="pics/2_case.png" alt="Case" width="450" />
-<img src="pics/3_top_ntype.png" alt="Top" width="450" />
-<img src="pics/3_top_sma.png" alt="Top" width="450" />
-<img src="pics/3_top_sma_power.png" alt="Top" width="450" />
-<img src="pics/3_top_sma_sma_power.png" alt="Top" width="450" />
+<img src="pics/3_top_gps_sma_ntype_usbc_rj45_usbc.png" alt="Top" width="450" />
+<img src="pics/3_top_gps_sma_sma_power_usbc_rj45_usbc.png" alt="Top" width="450" />
+<img src="pics/3_top_gps_sma_sma_usbc_rj45_power.png" alt="Top" width="450" />
+<img src="pics/3_top_gps_sma_sma_usbc_rj45_usbc.png" alt="Top" width="450" />
 <img src="pics/4_mounting_plate.png" alt="Mounting plate" width="450" />
 <img src="pics/5_assembly_mp_ups_rpi_halow.png" alt="Assembly 1" width="450" />
 <img src="pics/6_assembly_case_hw.png" alt="Assembly 2" width="450" />
